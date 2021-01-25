@@ -3,7 +3,7 @@ This program is designed to prompt the user to input the names of up to five
 different food trucks along with the type of food the food truck serves and
 a rate they decided to give the food truck.
 
-### Topics amnd Technologies covered
+### Topics and Technologies covered
 * Intro to objects
 * arrays
 * this keyword
